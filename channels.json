@@ -1,223 +1,386 @@
 [
-    {
-        "name": "DLTV15",
-        "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8"
-    },
-    {
-        "name": "NBT",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8"
-    },
-    {
-        "name": "TPBS",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8"
-    },
-    {
-        "name": "ALTV",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8"
-    },
-    {
-        "name": "5HD",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8"
-    },
-    {
-        "name": "Boomerang",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8"
-    },
-    {
-        "name": "T SPORT",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8"
-    },
-    {
-        "name": "TNN",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8"
-    },
-    {
-        "name": "JKN18",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
-    },
-    {
-        "name": "ไทบ้านทีวี",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
-    },
-    {
-        "name": "Nation",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8"
-    },
-    {
-        "name": "Workpoint",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"
-    },
-    {
-        "name": "True24",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8"
-    },
-    {
-        "name": "GMM25",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8"
-    },
-    {
-        "name": "ช่อง 8",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"
-    },
-    {
-        "name": "Boom Cartoon",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
-    }, 
-	{
-        "name": "MCOT",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8"
-    },
-    {
-        "name": "MONO 29",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"
-    },
-    {
-        "name": "MONO29 HD",
-        "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
-    },
-    {
-        "name": "ONE",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
-    },
-    {
-        "name": "Thairath",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8"
-    },
-    {
-        "name": "3HD",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8"
-    },
-    {
-        "name": "Amarin",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8"
-    },
-    {
-        "name": "7HD",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8"
-    },
-    {
-        "name": "PPTV",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8"
-    },
-    {
-        "name": "MVLAO",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
-    },
-    {
-        "name": "MVM",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8"
-    },
-    {
-        "name": "France 24",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8"
-    },
-    {
-        "name": "CNA",
-        "url": "https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8"
-    },
-    {
-        "name": "NHK WORLD",
-        "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"
-    },
-    {
-        "name": "CCTV4",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
-    },
-    {
-        "name": "PBS ****",
-        "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-    },
-    {
-        "name": "REAL WILD",
-        "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
-    },
-    {
-        "name": "RED BULL TV",
-        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
-    },
-    {
-        "name": "DLTV1",
-        "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    },
-    {
-        "name": "DLTV2",
-        "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    },
-    {
-        "name": "DLTV3",
-        "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    },
-    {
-        "name": "DLTV4",
-        "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-    },
-    {
-        "name": "DLTV5",
-        "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-    },
-    {
-        "name": "DLTV6",
-        "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8"
-    },
-    {
-        "name": "DLTV7",
-        "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8"
-    },
-    {
-        "name": "DLTV8",
-        "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8"
-    },
-    {
-        "name": "DLTV9",
-        "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8"
-    },
-    {
-        "name": "DLTV10",
-        "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8"
-    },
-    {
-        "name": "DLTV11",
-        "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8"
-    },
-    {
-        "name": "DLTV12",
-        "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8"
-    },
-    {
-        "name": "DLTV13",
-        "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8"
-    },
-    {
-        "name": "DLTV14",
-        "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8"
-    }, 
-    
-	{
-        "name": "MVTV ท้องถิ่นไทย (75)",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8"
-    },
-    {
-        "name": "IPTV-THAI",
-        "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
-    },
-    {
-        "name": "CHANNEL 8",
-        "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
-    },
-    {
-        "name": "gochannel",
-        "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
-    },
-    {
-        "name": "MOUNCHON TV",
-        "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8"
-    },
-	{
-        "name": "SUWANNABHUMI TV",
-        "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8"
-    },
-    {
-        "name": "Siam news TV",
-        "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
-    }
+  {
+    "name": "DLTV15",
+    "url": "https://cdn-live.dltv.ac.th/dltv15.m3u8"
+  },
+  {
+    "name": "NBT",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8"
+  },
+  {
+    "name": "TPBS",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8"
+  },
+  {
+    "name": "ALTV",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8"
+  },
+  {
+    "name": "5HD",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8"
+  },
+  {
+    "name": "Boomerang",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8"
+  },
+  {
+    "name": "Nation",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8"
+  },
+  {
+    "name": "Workpoint",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"
+  },
+  {
+    "name": "True24",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8"
+  },
+  {
+    "name": "GMM25",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8"
+  },
+  {
+    "name": "TNN",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8"
+  },
+  {
+    "name": "Boom Cartoon",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
+  },
+  {
+    "name": "MONO 29",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"
+  },
+  {
+    "name": "MCOT",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8"
+  },
+  {
+    "name": "ONE",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
+  },
+  {
+    "name": "Thairath",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8"
+  },
+  {
+    "name": "3HD",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8"
+  },
+  {
+    "name": "Amarin",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8"
+  },
+  {
+    "name": "7HD",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8"
+  },
+  {
+    "name": "PPTV",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8"
+  },
+  {
+    "name": "ช่อง 8",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"
+  },
+  {
+    "name": "MVMall Family (40)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8"
+  },
+  {
+    "name": "JKN18",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
+  },
+  {
+    "name": "CHANNEL 8",
+    "url": "https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8"
+  },
+  {
+    "name": "T SPORT",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8"
+  },
+  {
+    "name": "France 24",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8"
+  },
+  {
+    "name": "CNA",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8"
+  },
+  {
+    "name": "NHK WORLD",
+    "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "DLTV1",
+    "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8"
+  },
+  {
+    "name": "DLTV2",
+    "url": "https://cdn-live.dltv.ac.th/dltv02.m3u8"
+  },
+  {
+    "name": "DLTV3",
+    "url": "https://cdn-live.dltv.ac.th/dltv03.m3u8"
+  },
+  {
+    "name": "DLTV4",
+    "url": "https://cdn-live.dltv.ac.th/dltv04.m3u8"
+  },
+  {
+    "name": "DLTV5",
+    "url": "https://cdn-live.dltv.ac.th/dltv05.m3u8"
+  },
+  {
+    "name": "DLTV6",
+    "url": "https://cdn-live.dltv.ac.th/dltv06.m3u8"
+  },
+  {
+    "name": "DLTV7",
+    "url": "https://cdn-live.dltv.ac.th/dltv07.m3u8"
+  },
+  {
+    "name": "DLTV8",
+    "url": "https://cdn-live.dltv.ac.th/dltv08.m3u8"
+  },
+  {
+    "name": "DLTV9",
+    "url": "https://cdn-live.dltv.ac.th/dltv09.m3u8"
+  },
+  {
+    "name": "DLTV10",
+    "url": "https://cdn-live.dltv.ac.th/dltv10.m3u8"
+  },
+  {
+    "name": "DLTV11",
+    "url": "https://cdn-live.dltv.ac.th/dltv11.m3u8"
+  },
+  {
+    "name": "DLTV12",
+    "url": "https://cdn-live.dltv.ac.th/dltv12.m3u8"
+  },
+  {
+    "name": "DLTV13",
+    "url": "https://cdn-live.dltv.ac.th/dltv13.m3u8"
+  },
+  {
+    "name": "DLTV14",
+    "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8"
+  },
+  {
+    "name": "MVMall Trend",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8"
+  },
+  {
+    "name": "MVMall Plus (51)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8"
+  },
+  {
+    "name": "TPTV",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8"
+  },
+  {
+    "name": "MVMall Healthy (58)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8"
+  },
+  {
+    "name": "MVMall DD (59)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
+  },
+  {
+    "name": "MVMall Living (26)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
+  },
+  {
+    "name": "IPTV-THAI",
+    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+  },
+  {
+    "name": "gochannel",
+    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+  },
+  {
+    "name": "MOUNCHON TV",
+    "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8"
+  },
+  {
+    "name": "PBS ****",
+    "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+  },
+  {
+    "name": "REAL WILD",
+    "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "RED BULL TV",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
+  },
+  {
+    "name": "Siam news TV",
+    "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
+  },
+  {
+    "name": "siamnewstv",
+    "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
+  },
+  {
+    "name": "SUWANNABHUMI TV",
+    "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8"
+  },
+  {
+    "name": "TOP News",
+    "url": "https://live.topnews.co.th/hls/topnews_a_360.m3u8"
+  },
+  {
+    "name": "MVTV ท้องถิ่นไทย (75)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8"
+  },
+  {
+    "name": "playlist.m3u8",
+    "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "MCOT",
+    "url": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
+  },
+  {
+    "name": "MVLAO",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
+  },
+  {
+    "name": "MVM",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8"
+  },
+  {
+    "name": "ไทบ้านทีวี",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
+  },
+  {
+    "name": "Thai Chaiyo",
+    "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"
+  },
+  {
+    "name": "Thai Nguyen TV",
+    "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+  },
+  {
+    "name": "Raweuters",
+    "url": "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
+  },
+  {
+    "name": "BBC News",
+    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+  },
+  {
+    "name": "CCTV+1",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8"
+  },
+  {
+    "name": "Sky News",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7"
+  },
+  {
+    "name": "The First TV",
+    "url": "https://thefirst-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Florida Channel",
+    "url": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8"
+  },
+  {
+    "name": "The Grappling Network)",
+    "url": "https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8"
+  },
+  {
+    "name": "Toonami Aftermath Movies",
+    "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"
+  },
+  {
+    "name": "Toonami Aftermath East",
+    "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8"
+  },
+  {
+    "name": "Top Sci-Fi",
+    "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
+  },
+  {
+    "name": "Top Serien",
+    "url": "https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8"
+  },
+  {
+    "name": "True History Channel",
+    "url": "https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "True Lives",
+    "url": "https://amg00654-itv-amg00654c7-rakuten-uk-1282.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-truelives-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "Universal Westerns",
+    "url": "https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Vevo Pop Spain",
+    "url": "https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vevo Pop",
+    "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vevo Pop2",
+    "url": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"
+  },
+  {
+    "name": "We TV",
+    "url": "http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/WE_TV/index.m3u8"
+  },
+  {
+    "name": "West Hollywood",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+  },
+  {
+    "name": "Women's Sports Network",
+    "url": "https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8"
+  },
+  {
+    "name": "World of Freesports",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "World of Love Island",
+    "url": "https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "World Fishing Network",
+    "url": "http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8"
+  },
+  {
+    "name": "Zhejiang Education",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+  },
+  {
+    "name": "Zhejiang Minsheng",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+  },
+  {
+    "name": "เจ้อเจียง เฉียนเจียง",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
+  },
+  {
+    "name": "ฝูโจว-2 TV",
+    "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8"
+  },
+  {
+    "name": "FZTV-3)",
+    "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8"
+  },
+  {
+    "name": "Sci-Fi World",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
+  }
 ]
