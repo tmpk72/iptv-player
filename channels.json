@@ -63,7 +63,6 @@
         "name": "Boom Cartoon",
         "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
     }, 
-	
 	{
         "name": "MCOT",
         "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8"
@@ -216,9 +215,5 @@
     {
         "name": "Siam news TV",
         "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8"
-    },
-    {
-        "name": "SUWANNABHUMI TV", 
-        "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8"
-	},
-	]
+    }
+]
