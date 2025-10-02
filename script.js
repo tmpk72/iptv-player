@@ -3,69 +3,62 @@ document.addEventListener('DOMContentLoaded', () => {
     const videoPlayer = document.getElementById('video-player');
     let hls = null;
 
-    // ฟังก์ชันสำหรับเล่นช่องที่เลือก
     const playChannel = (url) => {
+        // ทำลาย hls instance เก่าก่อน
         if (hls) {
-            hls.destroy(); // หยุดช่องที่เล่นอยู่
+            hls.destroy();
         }
         
+        // ตรวจสอบว่าเบราว์เซอร์รองรับ HLS.js หรือไม่ (สำหรับไฟล์ .m3u8)
         if (Hls.isSupported()) {
-            // ใช้ Hls.js สำหรับเบราว์เซอร์ที่รองรับ
             hls = new Hls();
             hls.loadSource(url);
             hls.attachMedia(videoPlayer);
             hls.on(Hls.Events.MANIFEST_PARSED, () => {
                 videoPlayer.play();
             });
-             hls.on(Hls.Events.ERROR, function (event, data) {
-                if (data.fatal) {
-                    console.error("HLS Fatal Error:", data);
-                    channelList.innerHTML = '<p style="color:red;">พบข้อผิดพลาด: ลิงก์สตรีมอาจเสียหรือไม่ถูกต้อง</p>';
-                }
-            });
-        } else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
-            // สำรองสำหรับ Safari (iOS/macOS)
+        } 
+        // สำหรับ Safari หรือเบราว์เซอร์ที่รองรับ M3U8 โดยตรง
+        else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
             videoPlayer.src = url;
             videoPlayer.addEventListener('loadedmetadata', () => {
                 videoPlayer.play();
             });
-        } else {
-            console.error('HLS is not supported on this browser.');
         }
     };
 
-    // ฟังก์ชันสำหรับโหลดรายการช่องจาก channels.json
     const loadChannels = async () => {
         try {
+            // ดึงข้อมูลรายการช่องจาก channels.json
             const response = await fetch('channels.json');
             const channels = await response.json();
 
-            channelList.innerHTML = ''; // เคลียร์ข้อความ "กำลังโหลด"
-
-            channels.forEach((channel, index) => {
+            // สร้างปุ่มสำหรับแต่ละช่อง
+            channels.forEach(channel => {
                 const button = document.createElement('button');
                 button.classList.add('channel-button');
                 button.textContent = channel.name;
                 
+                // กำหนด Event เมื่อคลิกปุ่ม
                 button.addEventListener('click', () => {
-                    // ลบ active class จากปุ่มทั้งหมด
+                    // ลบสถานะ active จากปุ่มทั้งหมด
                     document.querySelectorAll('.channel-button').forEach(btn => btn.classList.remove('active'));
-                    // เพิ่ม active class ให้ปุ่มที่คลิก
+                    // กำหนดสถานะ active ให้ปุ่มที่เพิ่งถูกคลิก
                     button.classList.add('active');
+                    // เล่นช่องตาม URL
                     playChannel(channel.url);
                 });
                 channelList.appendChild(button);
-                
-                // เล่นช่องแรกทันทีเมื่อโหลดเสร็จ
-                if (index === 0) {
-                    button.classList.add('active');
-                    playChannel(channel.url);
-                }
             });
+
+            // เล่นช่องแรกทันทีเมื่อโหลดเสร็จ
+            if (channels.length > 0) {
+                document.querySelector('.channel-button').click();
+            }
 
         } catch (error) {
             console.error('Error loading channels:', error);
-            channelList.innerHTML = '<p style="color:red;">ไม่สามารถโหลดรายการช่องได้ โปรดตรวจสอบไฟล์ channels.json</p>';
+            channelList.innerHTML = '<p>ไม่สามารถโหลดรายการช่องได้ โปรดตรวจสอบไฟล์ channels.json</p>';
         }
     };
 
