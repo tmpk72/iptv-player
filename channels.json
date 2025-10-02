@@ -87,10 +87,7 @@
     "name": "ช่อง 8",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"
   },
-  {
-    "name": "MVMall Family (40)",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8"
-  },
+ 
   {
     "name": "JKN18",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
@@ -176,28 +173,8 @@
     "url": "https://cdn-live.dltv.ac.th/dltv14.m3u8"
   },
   {
-    "name": "MVMall Trend",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8"
-  },
-  {
-    "name": "MVMall Plus (51)",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8"
-  },
-  {
     "name": "TPTV",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8"
-  },
-  {
-    "name": "MVMall Healthy (58)",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8"
-  },
-  {
-    "name": "MVMall DD (59)",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
-  },
-  {
-    "name": "MVMall Living (26)",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
   },
   {
     "name": "IPTV-THAI",
@@ -246,23 +223,6 @@
   {
     "name": "สารคดี",
     "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
-  },
-  
-  {
-    "name": "MVLAO",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
-  },
-  {
-    "name": "MVM",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8"
-  },
-  {
-    "name": "ไทบ้านทีวี",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
-  },
-  {
-    "name": "Thai Chaiyo",
-    "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"
   },
   {
     "name": "Thai Nguyen TV",
@@ -360,6 +320,10 @@
     "name": "World Fishing Network",
     "url": "http://212.102.60.231/WORLD_FISHING_NETWORK/index.m3u8"
   },
+   {
+    "name": "Sci-Fi World",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
+  },
   {
     "name": "Zhejiang Education",
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
@@ -380,8 +344,44 @@
     "name": "FZTV-3)",
     "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8"
   },
+   {
+    "name": "MVLAO",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8"
+  },
   {
-    "name": "Sci-Fi World",
-    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
-  }
+    "name": "MVM",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8"
+  },
+  {
+    "name": "ไทบ้านทีวี",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8"
+  },
+  {
+    "name": "Thai Chaiyo",
+    "url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8"
+  },
+   {
+    "name": "MVMall Family (40)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8"
+  },
+  {
+    "name": "MVMall Trend",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8"
+  },
+  {
+    "name": "MVMall Plus (51)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8"
+  },
+  {
+    "name": "MVMall Healthy (58)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8"
+  },
+  {
+    "name": "MVMall DD (59)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8"
+  },
+  {
+    "name": "MVMall Living (26)",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
+  },
 ]
