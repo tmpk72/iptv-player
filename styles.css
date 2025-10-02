@@ -22,7 +22,7 @@ body {
     width: 100%;
     max-width: 800px;
     display: grid;
-    /* จัดปุ่มให้เต็มพื้นที่ในรูปแบบ Grid */
+    /* จัดปุ่มเป็น Grid ที่ย่อขยายได้ */
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
     gap: 10px;
 }
@@ -40,7 +40,8 @@ body {
     background-color: #555;
 }
 .channel-button.active {
-    /* สีของปุ่มที่ถูกเลือก */
-    background-color: #007bff; 
-    box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+    /* ปุ่มที่กำลังเล่นอยู่ */
+    background-color: #007bff; /* สีน้ำเงิน */
+    color: #fff;
+    border: 1px solid #007bff;
 }
