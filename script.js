@@ -9,6 +9,52 @@ document.addEventListener('DOMContentLoaded', () => {
             hls.destroy();
         }
         
+        // **URL ของ CORS Proxy ที่คาดว่าจะเสถียร (AllOrigins)**
+        const PROXY_URL = 'https://api.allorigins.win/raw?url=';
+        
+        // ตรวจสอบว่าเบราว์เซอร์รองรับ HLS.js หรือไม่
+        if (Hls.isSupported()) {
+            hls = new Hls({
+                // **ส่วนที่สำคัญ:** ตั้งค่าให้ดึง Manifest ผ่าน Proxy
+                xhrSetup: function(xhr, url) {
+                    // หาก URL ที่ดึงมาเป็น URL ต้นฉบับที่เราต้องการเล่น (M3U8)
+                    // (ตรวจสอบจากส่วนหนึ่งของลิงก์ VLC ของคุณเพื่อไม่ให้กระทบช่องอื่น)
+                    if (url.includes('112.27.235.94')) { 
+                        xhr.open('GET', PROXY_URL + encodeURIComponent(url), true);
+                    }
+                },
+                p2p: false, 
+                lowLatencyMode: true 
+            });
+            
+            // ให้โหลด M3U8 ผ่าน Proxy
+            const finalUrl = PROXY_URL + encodeURIComponent(url);
+            hls.loadSource(finalUrl); 
+            
+            hls.attachMedia(videoPlayer);
+            hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                videoPlayer.play();
+            });
+            
+            // เพิ่มการตรวจสอบข้อผิดพลาดเพื่อดูว่าเกิดอะไรขึ้น
+            hls.on(Hls.Events.ERROR, (event, data) => {
+                console.error('HLS Error:', data.details, data.fatal);
+                if (data.fatal) {
+                    // หากเกิดข้อผิดพลาดร้ายแรง ให้ลองโหลดใหม่ (อาจไม่ช่วย แต่เป็นแนวทางแก้ปัญหา)
+                    // playChannel(url); 
+                }
+            });
+
+        } 
+        // สำหรับ Safari หรือเบราว์เซอร์ที่รองรับ M3U8 โดยตรง
+        else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
+            videoPlayer.src = url;
+            videoPlayer.addEventListener('loadedmetadata', () => {
+                videoPlayer.play();
+            });
+        }
+    };
+        
         // ตรวจสอบว่าเบราว์เซอร์รองรับ HLS.js หรือไม่ (สำหรับไฟล์ .m3u8)
         if (Hls.isSupported()) {
             hls = new Hls();
@@ -64,3 +110,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     loadChannels();
 });
+
