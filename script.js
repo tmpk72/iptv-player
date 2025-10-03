@@ -40,8 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
             hls.on(Hls.Events.ERROR, (event, data) => {
                 console.error('HLS Error:', data.details, data.fatal);
                 if (data.fatal) {
-                    // หากเกิดข้อผิดพลาดร้ายแรง ให้ลองโหลดใหม่ (อาจไม่ช่วย แต่เป็นแนวทางแก้ปัญหา)
-                    // playChannel(url); 
+                    // หากเกิดข้อผิดพลาดร้ายแรง
                 }
             });
 
@@ -53,25 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoPlayer.play();
             });
         }
-    };
-        
-        // ตรวจสอบว่าเบราว์เซอร์รองรับ HLS.js หรือไม่ (สำหรับไฟล์ .m3u8)
-        if (Hls.isSupported()) {
-            hls = new Hls();
-            hls.loadSource(url);
-            hls.attachMedia(videoPlayer);
-            hls.on(Hls.Events.MANIFEST_PARSED, () => {
-                videoPlayer.play();
-            });
-        } 
-        // สำหรับ Safari หรือเบราว์เซอร์ที่รองรับ M3U8 โดยตรง
-        else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
-            videoPlayer.src = url;
-            videoPlayer.addEventListener('loadedmetadata', () => {
-                videoPlayer.play();
-            });
-        }
-    };
+    }; // <--- นี่คือจุดสิ้นสุดที่ถูกต้องของ playChannel
 
     const loadChannels = async () => {
         try {
@@ -110,4 +91,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
     loadChannels();
 });
-
