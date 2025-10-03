@@ -405,96 +405,96 @@
   },
   {
     "name": "CCTV1",
-    "url": "http://112.27.235.94:8000/hls/1/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/1/index.m3u8"
   },
   {
     "name": "CCTV2",
-    "url": "http://112.27.235.94:8000/hls/2/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/2/index.m3u8"
   },
   {
     "name": "CCTV3",
-    "url": "http://112.27.235.94:8000/hls/3/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/3/index.m3u8"
   },
   {
     "name": "CCTV4",
-    "url": "http://112.27.235.94:8000/hls/4/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/4/index.m3u8"
   },
   {
     "name": "CCTV5",
-    "url": "http://112.27.235.94:8000/hls/5/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/5/index.m3u8"
   },
   {
     "name": "CCTV5+",
-    "url": "http://112.27.235.94:8000/hls/6/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/6/index.m3u8"
   },
   {
     "name": "CCTV6",
-    "url": "http://112.27.235.94:8000/hls/7/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/7/index.m3u8"
   },
   {
     "name": "CCTV6-1",
-    "url": "http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ"
+    "url": "https://corsproxy.io/?http://223.110.241.204:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ"
   },
   {
     "name": "CCTV6-2",
-    "url": "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8"
+    "url": "https://corsproxy.io/?http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8"
   },
   {
     "name": "CCTV6-3",
-    "url": "http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8"
+    "url": "https://corsproxy.io/?http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8"
   },
   {
     "name": "CCTV6-01",
-    "url": "https://raw.githubusercontent.com/ybe/iptv/master/cn.m3u8"
+    "url": "https://corsproxy.io/?https://raw.githubusercontent.com/ybe/iptv/master/cn.m3u8"
   },
   {
     "name": "CCTV6-02",
-    "url": "http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204506.m3u8"
+    "url": "https://corsproxy.io/?http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204506.m3u8"
   },
   
   {
     "name": "CCTV7",
-    "url": "http://112.27.235.94:8000/hls/8/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/8/index.m3u8"
   },
   {
     "name": "CCTV8",
-    "url": "http://112.27.235.94:8000/hls/9/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/9/index.m3u8"
   },
   {
     "name": "CCTV9",
-    "url": "http://112.27.235.94:8000/hls/10/index.m3u8"
+    "url": "https://corsproxy.io/?https://corsproxy.io/?http://112.27.235.94:8000/hls/10/index.m3u8"
   },
   {
     "name": "CCTV10",
-    "url": "http://112.27.235.94:8000/hls/11/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/11/index.m3u8"
   },
   {
     "name": "CCTV11",
-    "url": "http://112.27.235.94:8000/hls/12/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/12/index.m3u8"
   },
   {
     "name": "CCTV12",
-    "url": "http://112.27.235.94:8000/hls/13/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/13/index.m3u8"
   },
   {
     "name": "CCTV13",
-    "url": "http://112.27.235.94:8000/hls/14/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/14/index.m3u8"
   },
   {
     "name": "CCTV14",
-    "url": "http://112.27.235.94:8000/hls/15/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/15/index.m3u8"
   },
   {
     "name": "CCTV15",
-    "url": "http://112.27.235.94:8000/hls/16/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/16/index.m3u8"
   },
   {
     "name": "CGTN",
-    "url": "http://112.27.235.94:8000/hls/17/index.m3u8"
+    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/17/index.m3u8"
   },
   {
     "name": "CCTV17",
-    "url": "https://cc06.tv12.xyz/17.m3u8"
+    "url": "https://corsproxy.io/?https://cc06.tv12.xyz/17.m3u8"
   },
   {
     "name": "Lotus",
