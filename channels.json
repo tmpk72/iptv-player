@@ -596,28 +596,64 @@
     "url": "rtmp://tv.yunxya.com:1937/channellive/shimian"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "Arirang",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/chunklist_b656000_sleng.m3u8"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "TV5MONDE ASIE",
+    "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "Euro News",
+    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "CBS NEWS 24/7",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "TVK ขแมร์",
+    "url": "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
   },
   {
-    "name": "gochannel",
-    "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8"
+    "name": "Fresh News",
+    "url": "http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8"
+  },
+  {
+    "name": "TRANS7",
+    "url": "https://video.detik.com/trans7/smil:trans7.smil/index.m3u8"
+  },
+  {
+    "name": "TRANS TV",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/index.m3u8"
+  },
+  {
+    "name": "Kien Giang TV1",
+    "url": "https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
+  },
+  {
+    "name": "Kien Giang TV",
+    "url": "http://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+  },
+  {
+    "name": "Khanh Hoa TV",
+    "url": "http://210.245.20.94/hls/ktv1.m3u8"
+  },
+  {
+    "name": "Dak Nong TV",
+    "url": "https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8"
+  },
+  {
+    "name": "VOA/RFA News",
+    "url": "https://voa-ingest.akamaized.net/hls/live/2033872/tvmc05/playlist.m3u8"
+  },
+  {
+    "name": "Cable Channel 37",
+    "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8"
+  },
+  {
+    "name": "Zhejiang Minsheng",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
   },
   {
     "name": "gochannel",
