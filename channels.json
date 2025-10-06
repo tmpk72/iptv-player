@@ -655,11 +655,7 @@
         "name": "Red Bull",
         "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?944623300051.m3u8"
       },
-  {
-        "name": "Red Bull TV",
-        "url": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8"
-      },
-  {
+    {
         "name": "Outside tvᴴᴰ",
         "url": "https://outsidetv-outside-localnow.amagi.tv/playlistR1080p.m3u8"
       },
@@ -671,15 +667,7 @@
         "name": "Outdoor America",
         "url": "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
       },
-  {
-        "name": "Nickelodeon",
-        "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
-      },
     {
-        "name": "NHL",
-        "url": "https://nhl-firetv.amagi.tv/playlist.m3u8"
-      },
-  {
         "name": "NHK World",
         "url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
       },
