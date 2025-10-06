@@ -608,24 +608,24 @@
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
       },
 {
-        "name": "BBS Buddhist",
-        "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+        "name": "NaDoo Korean",
+        "url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8"
       },
   {
-        "name": "GugakTV 국악방송",
-        "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+        "name": "Persiana Korea",
+        "url": "https://korhls.persiana.live/hls/stream.m3u8"
       },
   {
-        "name": "KBS Drama480p",
-        "url": "http://mytv.dothome.co.kr/ch/catv/2.php"
+        "name": "TV Chosun2",
+        "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8"
       },
   {
-        "name": "Korea TV",
-        "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+        "name": "WBC TV1080p",
+        "url": "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
       },
   {
-        "name": "Arirang TV",
-        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+        "name": "MBC Yeosu1080p",
+        "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
       },
   {
         "name": "Arirang TV",
