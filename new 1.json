@@ -432,26 +432,6 @@
     "url": "http://112.27.235.94:8000/hls/7/index.m3u8"
   },
   {
-    "name": "CCTV6-1",
-    "url": "http://tv.byw.cc/cctv/cctv6.m3u8"
-  },
-  {
-    "name": "CCTV6-2",
-    "url": "https://corsproxy.io/?http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8"
-  },
-  {
-    "name": "CCTV6-3",
-    "url": "https://corsproxy.io/?http://39.134.61.218/PLTV/88888888/224/3221226891/index.m3u8"
-  },
-  {
-    "name": "CCTV6-01",
-    "url": "https://corsproxy.io/?https://raw.githubusercontent.com/ybe/iptv/master/cn.m3u8"
-  },
-  {
-    "name": "CCTV6-02",
-    "url": "https://corsproxy.io/?http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204506.m3u8"
-  },
-    {
     "name": "CCTV7",
     "url": "http://112.27.235.94:8000/hls/8/index.m3u8"
   },
@@ -461,7 +441,7 @@
   },
   {
     "name": "CCTV9",
-    "url": "https://corsproxy.io/?http://112.27.235.94:8000/hls/10/index.m3u8"
+    "url": "http://112.27.235.94:8000/hls/10/index.m3u8"
   },
   {
     "name": "CCTV10",
@@ -902,3 +882,4 @@
       } 
 
 ]
+
