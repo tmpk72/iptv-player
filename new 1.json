@@ -883,7 +883,7 @@
   {
     "name": "MVMall Living (26)",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8"
-  }
+  },
    {
         "name": "Persiana Junior",
         "url": "https://junhls.persiana.live/hls/stream.m3u8"
@@ -900,4 +900,5 @@
         "name": "CCTV6",
         "url": "http://112.27.235.94:8000/hls/7/index.m3u8" 
       } 
+
 ]
