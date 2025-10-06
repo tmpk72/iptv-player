@@ -607,19 +607,11 @@
         "name": "BabyFirst",
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
       },
-{
-        "name": "NaDoo Korean",
-        "url": "https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8"
-      },
   {
         "name": "Persiana Korea",
         "url": "https://korhls.persiana.live/hls/stream.m3u8"
       },
-  {
-        "name": "TV Chosun2",
-        "url": "http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8"
-      },
-  {
+   {
         "name": "WBC TV1080p",
         "url": "https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"
       },
