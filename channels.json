@@ -128,6 +128,26 @@
     "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
   },
   {
+    "name": "3ABN Kids",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Music Network",
+    "url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+  },
+{
+    "name": "Classic Movies",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "name": "We Love Cars",
+    "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "name": "ChopperTown",
+    "url": "https://dai.google.com/linear/hls/event/czQEOQGCRnK2QXQRefUPCw/master.m3u8"
+  },
+  {
     "name": "CCTV4",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
   },
@@ -135,7 +155,26 @@
     "name": "CCTV4",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
   },
-
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
+  {
+    "name": "CCTV4",
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
+  },
   
   {
     "name": "DLTV1",
