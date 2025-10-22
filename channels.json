@@ -5,15 +5,15 @@
   },
   {
     "name": "NBT",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8"
   },
   {
     "name": "TPBS",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8"
   },
   {
     "name": "ALTV",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8"
   },
   {
     "name": "5HD",
@@ -25,24 +25,24 @@
   },
   {
     "name": "Nation",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8"
   },
   {
     "name": "Workpoint",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8"
   },
   {
     "name": "True24",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8"
   },
   {
     "name": "GMM25",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8"
   },
   {
     "name": "TNN",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8"
-  },
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8"
+  },        
   {
     "name": "Boom Cartoon",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8"
@@ -57,23 +57,23 @@
   },
   {
     "name": "MCOT",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8"
   },
   {
     "name": "ONE",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8"
   },
   {
     "name": "Thairath",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8"
   },
   {
     "name": "3HD",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8"
   },
   {
     "name": "Amarin",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8"
   },
   {
     "name": "7HD",
@@ -85,7 +85,7 @@
   },
   {
     "name": "ช่อง 8",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8"
+    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8"
   },
   {
     "name": "JKN18",
