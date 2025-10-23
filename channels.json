@@ -29,11 +29,11 @@
   },        
   {
     "name": "Workpoint",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u"
+    "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8"
   },
   {
     "name": "True24",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u"
+    "url": "https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/24/24.mpd"
   },
   {
     "name": "GMM25",
@@ -77,7 +77,7 @@
   },
   {
     "name": "7HD",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u"
+    "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8"
   },        
   {
     "name": "PPTV",
