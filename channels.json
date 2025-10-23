@@ -33,7 +33,7 @@
   },
   {
     "name": "True24",
-    "url": "https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/24/24.mpd"
+    "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u"
   },
   {
     "name": "GMM25",
