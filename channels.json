@@ -61,8 +61,8 @@
   },
   {
     "name": "ONE",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8"
-  },
+    "url": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
+  },        
   {
     "name": "Thairath",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8"
@@ -82,7 +82,7 @@
   {
     "name": "PPTV",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8"
-  },        
+  },
   {
     "name": "ช่อง 8",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8"
