@@ -202,6 +202,41 @@
     "name": "CCTV12",
     "url": "http://1.31.14.70:54321/hls/12/index.m3u8"
   },
+ {
+    "name": "CCTV12",
+    "url": "http://1.31.14.70:54321/hls/12/index.m3u8"
+  },
+
+   {
+    "name": "CCTV1",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8"
+  },
+
+   {
+    "name": "CCTV2",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8"
+  },
+
+   {
+    "name": "CCTV3",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8"
+  },
+ {
+    "name": "CCTV10",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8"
+  },
+
+ {
+    "name": "CCTV13",
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8"
+  },
+
+ {
+    "name": "CCTV14",
+    "url": "http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8"
+  },
+
+
    {
     "name": "Journy",
     "url": "https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8"
