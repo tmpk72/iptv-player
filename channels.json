@@ -182,61 +182,7 @@
     "name": "NATURE TIME",
     "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
   },
-   {
-    "name": "CCTV5",
-    "url": "http://1.31.14.70:54321/hls/7/index.m3u8"
-  },
-   {
-    "name": "CCTV6",
-    "url": "http://1.31.14.70:54321/hls/8/index.m3u8"
-  },
-   {
-    "name": "CCTV8",
-    "url": "http://1.31.14.70:54321/hls/14/index.m3u8"
-  },
-   {
-    "name": "CCTV11",
-    "url": "http://1.31.14.70:54321/hls/16/index.m3u8"
-  },
-   {
-    "name": "CCTV12",
-    "url": "http://1.31.14.70:54321/hls/12/index.m3u8"
-  },
- {
-    "name": "CCTV12",
-    "url": "http://1.31.14.70:54321/hls/12/index.m3u8"
-  },
-
-   {
-    "name": "CCTV1",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8"
-  },
-
-   {
-    "name": "CCTV2",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8"
-  },
-
-   {
-    "name": "CCTV3",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8"
-  },
- {
-    "name": "CCTV10",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8"
-  },
-
- {
-    "name": "CCTV13",
-    "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8"
-  },
-
- {
-    "name": "CCTV14",
-    "url": "http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8"
-  },
-
-
+   
    {
     "name": "Journy",
     "url": "https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8"
