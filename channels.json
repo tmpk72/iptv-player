@@ -9,7 +9,7 @@
   },
   {
     "name": "TPBS",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/live/tpbs.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/TPBS.stream_720p/playlist.m3u8"
   },        
   {
     "name": "ALTV",
@@ -17,7 +17,7 @@
   },
   {
     "name": "5HD",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/live/ch5.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/TV5HD.stream_720p/playlist.m3u8"
   },
   {
     "name": "Boomerang",
@@ -25,15 +25,15 @@
   },
   {
     "name": "Nation",
-    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/Nation.stream_720p/playlist.m3u8"
   },        
   {
     "name": "Workpoint",
-    "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/Workpoint.stream_720p/playlist.m3u8"
   },
   {
     "name": "True24",
-    "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/True4U.stream_720p/playlist.m3u8"
   },
   {
     "name": "GMM25",
@@ -41,7 +41,7 @@
   },  
   {
     "name": "TNN",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/TNN24.stream_720p/playlist.m3u8"
   },        
   {
     "name": "Boom Cartoon",
@@ -53,11 +53,11 @@
   },
    {
     "name": "MONO 29",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8"
+    "url": "https://load1.v2h-cdn.com/digitaltv/mono/playlist.m3u8"
   },
   {
     "name": "MCOT",
-    "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/chunklist_w201124503_b3000000.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/McotHD.stream_720p/playlist.m3u8"
   },
   {
     "name": "ONE",
@@ -65,31 +65,31 @@
   },        
   {
     "name": "Thairath",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/live/thairath.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/ThairathHD.stream_720p/playlist.m3u8"
   },
   {
     "name": "3HD",
-    "url": "https://ch3-33-web.cdn.byteark.com/live/playlist_360p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1761283503&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=0K5a8nqNibBEcoCIStLBhw"
+    "url": "https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8"
   },
   {
     "name": "Amarin",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8"
+    "url": "https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8"
   },
   {
     "name": "7HD",
-    "url": "cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8"
   },        
   {
     "name": "PPTV",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8"
+    "url": "https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8"
   },
   {
     "name": "ช่อง 8",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/CH8.stream_720p/playlist.m3u8"
   },
   {
     "name": "JKN18",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8"
+    "url": "https://load1.v2h-cdn.com/RE_freetv/NEW.stream_720p/playlist.m3u8"
   },
   {
     "name": "CHANNEL 8",
@@ -97,7 +97,11 @@
   },
   {
     "name": "T SPORT",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8"
+    "url": "https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8"
+  },
+  {
+    "name": "TPTV",
+    "url": "https://load1.v2h-cdn.com/digitaltv/tptv/playlist.m3u8"
   },
   {
     "name": "France 24",
@@ -219,11 +223,7 @@
     "name": "Redbull TV",
     "url": "https://i.mjh.nz/.r/redbull-tv.m3u8"
   },
-   {
-    "name": "CCTV4",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
-  },
-   {
+      {
     "name": "CCTV4",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
   },
