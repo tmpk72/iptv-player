@@ -805,8 +805,8 @@
         "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
       },
   {
-        "name": "Toonami Aftermath Movies",
-        "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"
+        "name": "Top Sci-Fi",
+        "url": "https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8"
       },
   {
         "name": "Red Bull TV (1080p)",
