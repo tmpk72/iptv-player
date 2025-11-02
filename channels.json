@@ -9,7 +9,7 @@
   },
   {
     "name": "TPBS",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/TPBS.stream_720p/playlist.m3u8"
+    "url": "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8"
   },        
   {
     "name": "ALTV",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Nation",
-    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
+    "url": "https://p0.cdn.vet/live/ch37/i/ch37i.m3u8?sid=b5yYmJjZWY0OWVlMTQxMDEwYzRmMwMzVmNzdjNWI4YzJjNTBj"
   },        
   {
     "name": "Workpoint",
@@ -65,15 +65,15 @@
   },        
   {
     "name": "Thairath",
-    "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8"
+    "url": "https://p0.cdn.vet/live/ch39/i/ch39i.m3u8?sid=b5yYTE4NzQ3ZDdmODFiMGM4NmNjZQOGE0NzQ5OTI3MjViNzQ5"
   },
   {
     "name": "3HD",
-    "url": "https://load1.v2h-cdn.com/digitaltv/ch3/playlist.m3u8"
+    "url": "https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yYzdmYzkxYjMxNjgzZGE4NGYyMgNjMyOTU4ZTRkNzBiMjQw"
   },
   {
     "name": "Amarin",
-    "url": "https://load1.v2h-cdn.com/digitaltv/amarin/playlist.m3u8"
+    "url": "https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=b5yZTNlZWJhNDcxZDNiNDQ4OWQwNgNmViN2JhYzQ4ZTE1NDRj"
   },
   {
     "name": "7HD",
@@ -81,7 +81,7 @@
   },        
   {
     "name": "PPTV",
-    "url": "https://load1.v2h-cdn.com/digitaltv/pptv/playlist.m3u8"
+    "url": "https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yNTIyZmIxODVkNTZlODBkOTJkZQMzg1MTdiZGNiNTBmZDg2"
   },
   {
     "name": "ช่อง 8",
