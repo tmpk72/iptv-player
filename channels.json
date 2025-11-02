@@ -17,7 +17,7 @@
   },
   {
     "name": "5HD",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/TV5HD.stream_720p/playlist.m3u8"
+    "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
   },
   {
     "name": "Boomerang",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Nation",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/Nation.stream_720p/playlist.m3u8"
+    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8"
   },        
   {
     "name": "Workpoint",
@@ -33,7 +33,7 @@
   },
   {
     "name": "True24",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/True4U.stream_720p/playlist.m3u8"
+    "url": "https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/24/24.mpd"
   },
   {
     "name": "GMM25",
@@ -65,7 +65,7 @@
   },        
   {
     "name": "Thairath",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/ThairathHD.stream_720p/playlist.m3u8"
+    "url": "https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8"
   },
   {
     "name": "3HD",
@@ -77,7 +77,7 @@
   },
   {
     "name": "7HD",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/7HD.stream_720p/playlist.m3u8"
+    "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8"
   },        
   {
     "name": "PPTV",
@@ -89,7 +89,7 @@
   },
   {
     "name": "JKN18",
-    "url": "https://load1.v2h-cdn.com/RE_freetv/NEW.stream_720p/playlist.m3u8"
+    "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8"
   },
   {
     "name": "CHANNEL 8",
