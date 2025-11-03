@@ -120,6 +120,10 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8"
   },
   {
+    "name": "X-Stream",
+    "url": "http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov"
+  },
+  {
     "name": "France 24",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8"
   },
