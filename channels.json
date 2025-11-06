@@ -251,6 +251,11 @@
     "name": "EUROnews",
     "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8"
   },
+ {
+    "name": "&Flix",
+    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b596000.m3u8"
+  },  
+  
   {
     "name": "ETV",
     "url": "http://150.95.66.20:1935/live/livestream/playlist.m3u8"
