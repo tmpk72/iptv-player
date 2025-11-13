@@ -30,7 +30,7 @@
   {
     "name": "Workpoint",
     "url": "https://global-media.sooplive.com/live/workpoint/master.m3u8"
-  },
+  }, 
   {
     "name": "True24",
     "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u"
@@ -324,6 +324,39 @@
     "name": "IPTV-THAI",
     "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
   },
+  {
+    "name": "21 Jump Street Mv",
+    "url": "https://cb562753.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1XzIxSnVtcFN0cmVldF9ITFM/playlist.m3u8"
+  },
+  {
+    "name": "100% Docs",
+    "url": "https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8"
+  },
+  {
+    "name": "ABN Freedom of Speech",
+    "url": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8"
+  },
+  {
+    "name": "Ace TV",
+    "url": "https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Action Hollywood",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "IPTV-THAI",
+    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+  },
+  {
+    "name": "IPTV-THAI",
+    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+  },
+  {
+    "name": "IPTV-THAI",
+    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+  },
+  
   {
     "name": "AMCEast",
     "url": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/profile_3/chunklist.m3u8"
