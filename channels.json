@@ -345,16 +345,124 @@
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
   },
   {
-    "name": "IPTV-THAI",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+    "name": "4 Afghanistan",
+    "url": "https://4afghls.persiana.live/hls/stream.m3u8"
   },
   {
-    "name": "IPTV-THAI",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+    "name": "4K Travel TV",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
   },
   {
-    "name": "IPTV-THAI",
-    "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4"
+    "name": "5-Minute Craft",
+    "url": "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Al Riyadh Radio",
+    "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8"
+  },
+  {
+    "name": "Alberto Sordi&Co",
+    "url": "https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Alex Berlin",
+    "url": "https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8"
+  },
+  {
+    "name": "Alfred Hitchcock Presents",
+    "url": "https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8"
+  },
+   {
+    "name": "Amasia Mv",
+    "url": "https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Amazon Sat",
+    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+  },
+   {
+    "name": "America's Boating Channel",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8"
+  },
+  {
+    "name": "American Ninja Warrior",
+    "url": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
+  },
+   {
+    "name": "Arab Heritage",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8"
+  },
+  {
+    "name": "Atrina_TV",
+    "url": "https://atrihls.wns.live/hls/stream.m3u8"
+  },
+   {
+    "name": "American_Pickers",
+    "url": "https://livetv-fa.tubi.video/american-pickers/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Drama_Italy",
+    "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Silent_Witness",
+    "url": "https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear",
+    "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Top_Gear_Finland",
+    "url": "https://amg00793-amg00793c49-rakuten-fi-5848.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear_France",
+    "url": "https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "BBC_Top_Gear_Germany",
+    "url": "https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC_Top_Gear_Italy",
+    "url": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8"
+  },
+   {
+    "name": "Be_Mad",
+    "url": "http://176.65.146.237:8401/play/a0aj/index.m3u8"
+  },
+  {
+    "name": "Best_Action_TV",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8"
+  },
+   {
+    "name": "Best_Drama_TV",
+    "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8"
+  },
+  {
+    "name": "Drive_TV",
+    "url": "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "E!_Keeping_Up",
+    "url": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "France_24_FAST_English",
+    "url": "https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "GenB_TV",
+    "url": "https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8"
+  },
+  {
+    "name": "Goal_TV",
+    "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+  },
+  {
+    "name": "Canada",
+    "url": "https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8"
   },
   
   {
