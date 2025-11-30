@@ -33,7 +33,7 @@
   },
   {
     "name": "True24",
-    "url": "https://iptv36.vercel.app/api/true.m3u8?channel=true4u"
+    "url": "https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1764491291&x_ark_path_prefix=%2Flive%2F&x_ark_signature=ObTxbez6Ux7y2_5DkOopDg"
   },
   {
     "name": "GMM25",
