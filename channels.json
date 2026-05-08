@@ -120,8 +120,8 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8"
   },
   {
-    "name": "Box Cinema",
-    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd"
+    "name": "Lifetime Movie",
+    "url": "https://jmp2.uk/plu-63335b193583440007c859fb.m3u8"
   },
   {
     "name": "France 24",
@@ -136,13 +136,108 @@
     "url": "https://nhk.lls.pbs.org/index.m3u8"
   },  
  {
-    "name": "NHK BS",
-    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11"
+    "name": "MOVIEDOM",
+    "url": "https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8"
   },  
  {
-    "name": "NHK BS4K",
-    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01"
+    "name": "Moviesphere",
+    "url": "https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8"
   },  
+   {
+    "name": "Moviesphere1080",
+    "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8"
+  },  
+{
+    "name": "Moviesphere AU",
+    "url": "https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8"
+  },  
+{
+    "name": "MovieSphere by Lionsgate",
+    "url": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
+  },  
+{
+    "name": "MovieSphere UK",
+    "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  },  
+{
+    "name": "MyTime Movie",
+    "url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+  },  
+{
+    "name": "OUTflix Movies",
+    "url": "https://jmp2.uk/plu-6368e15a51e9560007c592ed.m3u8"
+  },  
+{
+    "name": "Paramount Movie",
+    "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8"
+  },  
+{
+    "name": "Pluto TV Action",
+    "url": "https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8"
+  },  
+{
+    "name": "Pluto TV Movies",
+    "url": "https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8"
+  },  
+{
+    "name": "Pluto TV Netmovies",
+    "url": "https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8"
+  },  
+{
+    "name": "Rakuten UK",
+    "url": "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
+  },  
+  {
+    "name": "Rakuten Finland",
+    "url": "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+  },  
+{
+    "name": "Rakuten Germany",
+    "url": "https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8"
+  },  
+{
+    "name": "Sparkle Movies",
+    "url": "https://candlelightmedia-sparklemovies-1-gb.samsung.wurl.tv/playlist.m3u8"
+  },  
+{
+    "name": "Star Maa Movies",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Star Movies HD",
+    "url": "http://103.157.248.140:8000/play/a01t/index.m3u8"
+  },  
+  {
+    "name": "Star Trek Movies",
+    "url": "https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8"
+  },  
+  {
+    "name": "Sa Movies",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Stars",
+    "url": "https://aworkers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Staovies",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Staes",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Stvies",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  {
+    "name": "Stes",
+    "url": "https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8"
+  },  
+  
+  
+  
   
   {
     "name": "CCTV4",
