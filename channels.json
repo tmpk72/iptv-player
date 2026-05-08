@@ -120,12 +120,12 @@
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8"
   },
   {
-    "name": "Zoomer TV",
-    "url": "https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8"
+    "name": "Box Cinema",
+    "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=l_Bw4LbbQO8"
   },
   {
     "name": "France 24",
-    "url": "https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8"
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
   },
   {
     "name": "CNA",
@@ -133,8 +133,17 @@
   },
   {
     "name": "NHK WORLD",
-    "url": "https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8"
+    "url": "https://nhk.lls.pbs.org/index.m3u8"
   },  
+ {
+    "name": "NHK BS",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11"
+  },  
+ {
+    "name": "NHK BS4K",
+    "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01"
+  },  
+  
   {
     "name": "CCTV4",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8"
